@@ -32,8 +32,44 @@ If there are no further pages, the `next_token` returned will be null.
 - Implement necessary transformations to normalize and clean the data as required.
 - Write the code to store the transformed data in an S3-based data lake (we understand that you won't be able to test this step without access to AWS)
 
-## Submission:
+## Submission
 
 - Provide the Python scripts in a GitHub repository or as a ZIP file.
 - Include a README file with clear instructions on how to set up and run your solution.
 - Ensure your code is well-documented and follows best practices.
+
+## Submission Options
+
+### Option 1: Submit via Forking and Pull Request
+
+1. **Fork and Clone**:
+   - Fork this repository to your GitHub account.
+   - Clone your fork to your local machine:
+
+     ```sh
+     git clone git@github.com:YOUR_USERNAME/mv_data_hiring.git
+     ```
+
+2. **Complete the tasks**:
+   - Follow the instructions provided in the relevant files and directories.
+
+3. **Push and PR**:
+   - Push your changes to your forked repository:
+
+     ```sh
+     git add .
+     git commit -m "Complete data test"
+     git push origin main
+     ```
+
+   - Create a Pull Request (PR) to the original repository with a description of your approach.
+
+### Option 2: Submit via Email
+
+1. **Download and Complete**:
+   - Download the repository as a zip file from GitHub.
+   - Extract the zip file and complete the tasks.
+
+2. **Prepare and Send**:
+   - Zip your completed work.
+   - Email the zipped file to [your_email@example.com] with a description of your approach.
