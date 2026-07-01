@@ -1,6 +1,6 @@
 fastapi
 pandas
 uvicorn
-python-multipart
+python-multipart>=0.0.32
 faker
 cryptography
